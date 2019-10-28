@@ -1,0 +1,11 @@
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp3.0/CollectionsPractice
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp3.0/CollectionsPractice.deps.json
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp3.0/CollectionsPractice.runtimeconfig.json
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp3.0/CollectionsPractice.runtimeconfig.dev.json
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp3.0/CollectionsPractice.dll
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp3.0/CollectionsPractice.pdb
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp3.0/CollectionsPractice.csprojAssemblyReference.cache
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp3.0/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp3.0/CollectionsPractice.AssemblyInfo.cs
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp3.0/CollectionsPractice.dll
+/Users/dave/codingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp3.0/CollectionsPractice.pdb
